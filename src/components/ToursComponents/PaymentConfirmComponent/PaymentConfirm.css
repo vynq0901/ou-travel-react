@@ -1,0 +1,26 @@
+.payment-content > div {
+    margin: 10px;
+    text-align: center;
+}
+
+.confirm-section {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.confirm-section > button {
+    margin: 0px 30px;
+    padding: 5px;
+    background: #2F7AF8;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.2s;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+.confirm-section > button:hover {
+    background-color: #F19C4F;
+}

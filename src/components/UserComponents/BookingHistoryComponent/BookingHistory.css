@@ -1,0 +1,27 @@
+.booking-history-section {
+    min-height: 278px;
+    position: relative;
+}
+
+.booking-history-item {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+}
+
+.booking-history-item:last-child {
+    margin: 0;
+    border: 0;
+}
+
+.booking-history-item > a {
+    color: #2f7af8;
+    font-size: 18px;
+}
+
+.booking-history-item-empty {
+   font-size: 20px;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
+}

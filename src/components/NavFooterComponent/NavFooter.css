@@ -1,0 +1,29 @@
+.nav-footer {
+    background: #f7f7f7;  
+}
+
+.nav-footer-container{
+    text-align: center;
+    padding: 30px 0px;
+}
+
+.nav-footer-container a {
+    text-decoration: none;
+    color: #07253f;
+    text-transform: uppercase;
+    font-size: 13px;
+    display: inline-block;
+    padding: 0px 10px;
+    margin: 0;
+    border-right: 1px solid #bec4c8;
+    cursor: pointer;
+}
+
+.non-border{
+    border: none !important;
+}
+
+.copyright {
+    margin-top: 20px;
+    font-size: 12px;
+}

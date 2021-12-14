@@ -1,0 +1,80 @@
+{
+  "name": "tour-booking-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "proxy": "http://localhost:8000",
+  "dependencies": {
+    "@emotion/react": "^11.5.0",
+    "@emotion/styled": "^11.3.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.15",
+    "@mui/lab": "^5.0.0-alpha.56",
+    "@mui/material": "^5.1.0",
+    "@mui/styled-engine-sc": "^5.1.0",
+    "@reduxjs/toolkit": "^1.6.2",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.23.0",
+    "bootstrap": "^5.1.1",
+    "chart.js": "^3.6.1",
+    "crypto-js": "^4.1.1",
+    "i18next": "^21.6.0",
+    "material-ui-password-field": "^2.1.2",
+    "moment": "^2.29.1",
+    "query-string": "^7.0.1",
+    "react": "^17.0.2",
+    "react-back-to-top-button": "^0.0.14",
+    "react-bootstrap": "^2.0.0-rc.0",
+    "react-chartjs-2": "^4.0.0",
+    "react-cookie": "^4.1.1",
+    "react-country-flag": "^3.0.2",
+    "react-currency-format": "^1.0.0",
+    "react-datepicker": "^4.3.0",
+    "react-dom": "^17.0.2",
+    "react-hook-form": "^7.19.4",
+    "react-i18next": "^11.15.1",
+    "react-icons": "^4.3.1",
+    "react-multi-carousel": "^2.6.5",
+    "react-notifications": "^1.7.2",
+    "react-redux": "^7.2.6",
+    "react-router-dom": "^5.3.0",
+    "react-scripts": "4.0.3",
+    "react-simple-oauth2-login": "^0.5.1",
+    "react-textarea-autosize": "^8.3.3",
+    "react-toastify": "^8.1.0",
+    "styled-components": "^5.3.3",
+    "universal-cookie": "^4.0.4",
+    "uuid": "^8.3.2",
+    "web-vitals": "^1.1.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "@babel/parser": "^7.16.3"
+  }
+}

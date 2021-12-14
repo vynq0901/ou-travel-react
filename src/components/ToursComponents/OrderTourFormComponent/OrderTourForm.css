@@ -1,0 +1,92 @@
+.order-tour-section {
+    margin-left: 20px;
+    margin-top: 10px;
+    position: sticky;
+    top: 88px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+.order-tour-section-content {
+    padding: 10px;
+}
+
+.order-tour-section > h3 {
+    text-transform: uppercase;
+    padding: 22px 0px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #2F7AF8;
+    font-size: 24px;
+    margin-bottom: 0px;
+}
+
+.order-tour-section-content > div {
+    margin: 15px 0px;
+}
+
+.order-tour-form-container {
+    display: grid;
+    grid-template-columns: 50% 50%;
+}
+
+.order-tour-form-item {
+    text-align: center;
+    padding: 0px 30px;
+}
+
+.order-tour-section-name {
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.order-form-submit-section {
+    padding: 10px;
+    color: #07253F;
+    font-size: 20px;
+    display: grid;
+    grid-template-columns: 65% 35%;
+}
+
+.total-value > span {
+    display: block;
+    text-align: center;
+}
+
+.order-form-submit-section #submit-btn{
+    padding: 5px;
+    background: #2F7AF8;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.2s;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
+
+.order-form-submit-section #submit-btn:hover{
+    background-color: #F19C4F;
+}
+
+.order-form-price{
+    font-size: 24px;
+    font-weight: 600;
+    color: #2F7AF8;
+}
+
+.order-form-price-total {
+    font-size: 24px;
+    font-weight: 600;
+    color: #F19C4F;
+   
+}
+
+.order-form-require-section {
+    padding: 10px 10px 20px;
+}
+
+.order-form-require-section > a {
+    color: #2F7AF8;
+}

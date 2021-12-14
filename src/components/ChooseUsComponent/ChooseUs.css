@@ -1,0 +1,47 @@
+.choose-us-section {
+    background: #f7f7f7;
+    padding: 60px 0px 80px;
+}
+
+.choose-us-section .list-reason {
+    width: 80%;
+    margin: 60px auto;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+.list-reason .reason-item {
+    box-shadow: 0px 0px 5px #e6e6e6;
+    border: 1px solid #e6e6e6;
+    background: #fff;
+    margin: 20px;
+    padding: 30px 20px 15px 15px;
+    position: relative;
+    text-align: center;
+}
+
+.reason-item > h5 {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.reason-item > p {
+    text-align: justify;
+    margin: 0;
+}
+
+.reason-item .icon-reason-item {
+    position: absolute;
+    background: #2F7AF8;
+    width: 20px;
+    height: 20px;
+    padding: 10px;
+    top: -10px;
+    left: 50%;
+}
+
+.icon-reason {
+    transform: rotate(45deg);
+    color: #fff;
+}
+

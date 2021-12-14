@@ -1,0 +1,83 @@
+{
+    "navbar": {
+        "1": "TIN TỨC",
+        "2": "DỊCH VỤ",
+        "3": "LIÊN HỆ",
+        "4": "TRANG CHỦ"
+    },
+    "register": "Đăng kí",
+    "login": "Đăng nhập",
+    "welcome": "CHÀO MỪNG BẠN ĐẾN VỚI",
+    "searchForm": {
+        "1": "BẠN MUỐN ĐI ĐÂU ?",
+        "2": "Tôi muốn đi",
+        "3": "Nhập nơi bạn muốn đi",
+        "4": "Ngày khởi hành",
+        "5": "Chọn ngày khởi hành",
+        "6": "Vui lòng nhập địa điểm hoặc ngày khởi hành"
+    },
+    "search": "Tìm kiếm",
+    "latestTour": "TOUR MỚI NHẤT",
+    "seeDetail": "XEM CHI TIẾT",
+    "duration": "Thời gian",
+    "vehicle": "Phương tiện",
+    "seeAll": "XEM TẤT CẢ",
+    "latestNews": "TIN TỨC MỚI NHẤT",
+    "whyChoose": {
+        "0": "Lý do chọn chúng tôi ?",
+        "1": {
+            "11": "Các chuyến du lịch",
+            "12": "Đa dạng, linh hoạt, được nghiên cứu kĩ càng để đưa vào hoạt động"
+        },
+        "2": {
+            "21": "Giá cả",
+            "22": "Giá cả phải chăng, luôn đảm bảo các chuyến du lịch có mức giá tốt nhất"
+        },
+        "3": {
+            "31": "Thanh toán",
+            "32": "Nhanh, dễ dàng, đảm bảo an toàn về thông tin khách hàng"
+        }
+        ,
+        "4": {
+            "41": "Hỗ trợ",
+            "42": "Đội ngũ nhân viên chuyên môn cao luôn sẵn sàng hỗ trợ 24/7"
+        }
+    },
+    "loginForm": {
+        "1": "Đăng Nhập",
+        "2": "Tên đăng nhập",
+        "3": "Mật khẩu",
+        "4": "Chưa có tài khoản ? ",
+        "5": "Sai tên đăng nhập hoặc mật khẩu"
+    },
+    "registerForm": {
+        "1": "Đăng Kí",
+        "2": "Họ",
+        "3": "Tên",
+        "4": "Tên đăng nhập",
+        "5": "Mật khẩu",
+        "6": "Xác nhận mật khẩu",
+        "7": "Đã có tài khoản ? ",
+        "8": "Xác nhận mật khẩu không khớp",
+        "9": "Tên đăng nhập đã tồn tại",
+        "10": "Email đã tồn tại"
+    },
+    "filter": {
+        "1": "Tìm kiếm tour",
+        "2": "Loại tour",
+        "3": "Địa điểm",
+        "4": "Giá",
+        "5": "Phương tiện",
+        "6": "Sắp xếp mặc định",
+        "7": "Giá cao đến thấp",
+        "8": "Giá thấp đến cao",
+        "9": "Nhiều lượt xem nhất"
+    },
+    "logout": "Đăng xuất",
+    "personInfo": "Thông tin cá nhân",
+    "newsPage": {
+        "1": "Tin tức du lịch",
+        "2": "Đăng bởi",
+        "3": "Xem chi tiết"
+    }
+}

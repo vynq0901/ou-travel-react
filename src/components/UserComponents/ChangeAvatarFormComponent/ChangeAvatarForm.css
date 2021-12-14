@@ -1,0 +1,110 @@
+.change-avatar-form {
+    background-color: #fff;
+    padding: 30px;
+    position: relative;
+    animation: zoom-out 0.3s ease-out;
+}
+
+.choose-avatar-section {
+    display: flex;
+}
+
+
+.change-avatar-form label {
+    display: flex;
+    width: 200px;
+    height: 200px;
+    background-color:#2F7AF8;
+    color: #fff;
+    transition: 0.2s;
+    border-radius: 50%;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+.hiding-label {
+    opacity: 0;
+}
+
+.hiding-label:hover {
+    opacity: 0.5;
+    background-color:#2F7AF8 !important;
+}
+
+.label-choose-avatar {
+    text-align: center;
+    position: relative;
+}
+
+.change-avatar-form label:hover {
+    background-color: #F19C4F;
+}
+
+#up-load{
+    display: none;
+}
+
+#preview-avatar {
+    display: block;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    top:0;
+}
+
+.submit-change-avatar-section {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.submit-change-avatar-section > input {
+    padding: 10px 18px;
+    background-color:#2F7AF8;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    transition: 0.2s;
+    outline: none;
+}
+
+.submit-change-avatar-section > input:hover {
+    background-color: #F19C4F;
+}
+
+.submit-change-avatar-section > input:disabled {
+    background-color: #ccc;
+}
+
+.change-avatar-cancel-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    border: 1px solid #07253F;
+    background-color: #fff;
+    color: #07253F;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.change-avatar-cancel-button:hover {
+    background-color: #07253F;
+    color: #fff;
+}
+
+.image-loader{
+    margin-top: 5px;
+}
+
+.error-msg {
+    text-align: center;
+    color: red;
+}

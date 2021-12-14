@@ -1,0 +1,14 @@
+.news-bg {
+    background-image: url('../../../assets/images/bg-news.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.list-news-container {
+    padding: 40px 0px;
+}
+
+.list-news-left-item {
+    display: flex;
+    flex-wrap: wrap;
+}

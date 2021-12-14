@@ -1,0 +1,38 @@
+.tours-bg{
+    background-image: url('../../../assets/images/bg-title-page-alltours.jpg');
+}
+
+.container-items {
+    display: grid;
+    grid-template-columns: 20% 80%;
+}
+
+.filter-section {
+    margin-right: 5px;
+}
+
+.filter-area {
+    border: 1px solid #e6e6e6;
+    box-shadow: 0px 2px 5px #e6e6e6;
+    padding: 10px 10px 32px 10px;
+}
+
+.filter-header {
+    background: #2F7AF8;
+}
+
+.filter-header h4 {
+    text-align: center;
+    margin: 0px;
+    padding: 40px;
+    color: #fff;
+    font-size: 20px;
+}
+
+.filter-area h5 {
+    color: rgb(249, 191, 59);
+    margin-bottom: 10px;
+}
+
+
+

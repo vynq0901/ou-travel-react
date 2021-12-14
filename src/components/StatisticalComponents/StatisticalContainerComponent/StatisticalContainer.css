@@ -1,0 +1,16 @@
+.statistical-section {
+    background-color: #f7f7f7;
+    padding: 60px 0px;
+}
+
+.statistical-tab-panel {
+    background-color: #fff;
+    box-shadow: 0px 0px 5px #e6e6e6;
+    text-align: center;
+}
+
+.currency-statistical {
+    color: #2f7af8;
+    font-size: 28px;
+    font-weight: 600;
+}

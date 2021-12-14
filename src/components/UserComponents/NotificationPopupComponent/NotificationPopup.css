@@ -1,0 +1,70 @@
+.noti-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    height: 100%;
+    z-index: 10000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.noti-content {
+    background: #fff;
+    font-size: large;
+    padding: 40px 80px;
+    animation: zoom-out 0.4s ease-out;
+}
+
+.noti-content .check-icon{
+    font-size: 50px;
+    color: #2f7af8;
+}
+
+.noti-text {
+    display: block;
+    margin: 24px 5px;
+}
+
+@keyframes zoom-out {
+    0% {
+        transform: scale(0,0);
+    }
+    100% {
+        transform: scale(1,1);
+    }
+}
+
+@keyframes zoom-in-zoom-out {
+    0% {
+      transform: translateY(0px);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.dot {
+    display: inline-block;
+    background: #2f7af8;
+    width: 10px;
+    height: 10px;
+    margin: 5px;
+    border-radius: 50%;
+    
+}
+
+.dot-left {
+    animation: zoom-in-zoom-out 1s ease-out infinite;
+}
+
+.dot-center {
+    animation: zoom-in-zoom-out 2s ease-out infinite;
+}
+
+.dot-right {
+    animation: zoom-in-zoom-out 3s ease-out infinite;
+}
+

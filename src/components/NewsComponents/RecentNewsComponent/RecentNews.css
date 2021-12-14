@@ -1,0 +1,129 @@
+.recent-news-section {
+    background: url('http://limpidthemes.com/Themeforest/html/cruise-demo/light/assets/images/pattern.jpg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+}
+
+.recent-news-section .background-flow {
+    padding: 60px 0px 80px;
+    background: rgba(10, 49, 82, 0.8);
+    color: #fff;
+}
+
+.news-list {
+    width: 80%;
+    margin: 60px auto;
+    position: relative;
+}
+
+.news-item {
+    background: #fff;
+    box-shadow: 0px 0px 5px #e6e6e6;
+    margin: 5px;
+    color: #000;
+    box-sizing: border-box;
+    height: 360px;
+}
+
+.news-item > img {
+    width: 100%;
+    height: 50%;
+    object-fit: cover;
+    vertical-align: middle;
+    
+}
+
+.news-item .news-title h5 {
+    font-weight: bold;
+    margin: 0;
+}
+
+.news-item .news-title p {
+   margin: 0px 0px 10px;
+   color: #2F7AF8;
+   display: inline-block;
+   position: absolute;
+   bottom: 70px;
+}
+
+.news-item .news-info {
+    padding: 15px 15px 0px;
+    height: 50%;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.news-info .news-reaction {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    border-top: 1px solid #e6e6e6;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.reaction {
+    margin: 0px;
+    padding: 10px 15px;
+}
+
+.learn-more{
+    color: #fff;
+    display: inline-block;
+    background: #2F7AF8;
+    margin: 10px;
+    padding: 0px 8px;
+    font-size: 15px;
+    text-transform: uppercase;
+    font-weight: 700;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.learn-more:hover {
+    background: #F19C4F;
+}
+
+.dot-list {
+    position: relative !important;
+}
+
+.react-multi-carousel-dot--active button {
+    background: #2F7AF8 !important;
+    border: 2px solid transparent !important;
+}
+
+.react-multi-carousel-dot button {
+    border: 2px solid transparent !important;
+}
+
+.all-news {
+
+    text-align: center;
+
+}
+
+.all-news .all-news-btn{
+    display: inline-block;
+    cursor: pointer;
+    padding: 15px 32px;
+    font-weight: 700;
+    font-size: 16px;
+    background-color: #fff;
+    color: #07253F;
+    text-transform: uppercase;
+    border: 1px solid transparent;
+    transition: 0.2s;
+}
+
+.all-news .all-news-btn:hover {
+    background-color: #07253F;
+    color: #fff;
+    border: 1px solid transparent;
+}

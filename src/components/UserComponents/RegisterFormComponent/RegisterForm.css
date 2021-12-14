@@ -1,0 +1,80 @@
+.register-form-container {
+    background-color: #fff;
+    box-shadow: 0 5px 10px 0px rgb(0 0 0 / 10%);
+    padding: 0px 55px 33px 55px;
+    width: 280px;
+}
+
+.register-form-header {
+    width: 100%;
+    padding: 20px 0px;
+    margin: 0px 0px 20px;
+    font-size: 30px;
+    text-align: center;
+    color: #000;
+}
+
+.register-form-input {
+    display: block;
+    width: 100%;
+    height: 45px;
+    font-size: 15px;
+    margin-bottom: 37px;
+    padding: 0 5px;
+    outline: none;
+    border: none;
+    border-bottom: 2px solid #555;
+    line-height: 1.2;
+    transition: 0.2s;
+}
+
+.register-form-input:focus {
+    border-bottom: 2px solid #2f7af8;
+    outline: none;
+}
+
+.register-form-content #submit-btn {
+    padding: 15px 40px;
+    width: 100%;
+    height: 50px;
+    line-height: 1.2;
+    background: #07253F none repeat scroll 0 0;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    transition: 0.2s;
+    cursor: pointer;
+    border-radius: 50px;
+    margin-top: 21px;
+}
+
+.register-form-content #submit-btn:hover {
+    border: 2px solid #07253F;
+    background: transparent;
+    color: #07253F;
+}
+
+.login-context {
+    font-size: 14px;
+    text-align: center;
+    padding-top: 24px;
+}
+
+.login-context a {
+    color: #2f7af8;
+}
+
+.incorrect {
+    margin: 10px;
+    color: red;
+    display: none;
+}
+
+.name-input {
+   display: grid;
+   grid-template-columns: 70% 25%;
+}
+
+.width-30 {
+    margin-left: 15px;
+}

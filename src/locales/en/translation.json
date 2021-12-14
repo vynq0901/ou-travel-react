@@ -1,0 +1,83 @@
+{
+    "navbar": {
+        "1": "NEWS",
+        "2": "SERVICES",
+        "3": "CONTACT",
+        "4": "HOME"
+    },
+    "register": "Register",
+    "login": "Login",
+    "welcome": "WELCOME TO",
+    "searchForm": {
+        "1": "WHERE DO YOU WANT TO VISIT ?",
+        "2": "I want to visit",
+        "3": "Type name of place you want to visit",
+        "4": "Date",
+        "5": "Choose date",
+        "6": "Please type or choose place you want to visit and date"
+    },
+    "search": "Search",
+    "latestTour": "LATEST TOURS",
+    "seeDetail": "SEE DETAILS",
+    "duration": "Duration",
+    "vehicle": "Vehicle",
+    "seeAll": "SEE ALL",
+    "latestNews": "LATEST NEWS",
+    "whyChoose": {
+        "0": "Why choose us ?",
+        "1": {
+            "11": "All tours",
+            "12": "Diverse, flexible, well researched to put into operation"
+        },
+        "2": {
+            "21": "Pricing",
+            "22": "Affordable prices, always ensuring the best travel prices"
+        },
+        "3": {
+            "31": "Payment",
+            "32": "Fast, easy, secure customer information"
+        }
+        ,
+        "4": {
+            "41": "Support",
+            "42": "Highly qualified staff is always ready to support 24/7"
+        }
+    },
+    "loginForm": {
+        "1": "Login",
+        "2": "Username",
+        "3": "Password",
+        "4": "Have no account ? ",
+        "5": "Incorrect username or password"
+    },
+    "registerForm": {
+        "1": "Register",
+        "2": "Last name",
+        "3": "First name",
+        "4": "Username",
+        "5": "Password",
+        "6": "Confirm password",
+        "7": "Already have an account ? ",
+        "8": "Password not matched",
+        "9": "Username already existed",
+        "10": "Email already existed"
+    },
+    "filter": {
+        "1": "Find tour",
+        "2": "Category",
+        "3": "Destination",
+        "4": "Price",
+        "5": "Vehicles",
+        "6": "Sort by default",
+        "7": "Sort by price descending",
+        "8": "Sort by price ascending",
+        "9": "Most views"
+    },
+    "logout": "Log out",
+    "personInfo": "Account Information",
+    "newsPage": {
+        "1": "Travel News",
+        "2": "Posted by",
+        "3": "See details"
+    }
+}

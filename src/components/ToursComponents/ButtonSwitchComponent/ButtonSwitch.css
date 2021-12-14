@@ -1,0 +1,21 @@
+.switch-section {
+    margin-top: 20px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.switch-section .switch-btn {
+    margin: 0px 5px;
+    padding: 8px;
+    border: 1px solid #07253F;
+    color: #07253F;
+    background: #fff;
+    transition: 0.2s;
+    cursor: pointer;
+}
+
+.switch-section .switch-btn:hover {
+    border: 1px solid #07253F;
+    color: #fff;
+    background: #07253F;
+}
